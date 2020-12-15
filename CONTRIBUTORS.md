@@ -1,26 +1,12 @@
 # Our contributors:
+
 Cheers to every single one of them!
 
 <img src="https://media.giphy.com/media/DGWAx8d3IkICs/giphy.gif" align="middle" width=250 height=200>
 
-* [Rr8eezz4aa](https://github.com/Rr8eezz4aa)
-* [ankitgoel25](https://github.com/ankitgoel25)
-* [vedanthv](https://github.com/vedanthv)
-* [utkarshbajaj](https://github.com/utkarshbajaj)
-* [AnweshaDan](https://github.com/AnweshaDan)
-* [sauravUppoor](https://github.com/sauravUppoor)
-* [instareasy](https://github.com/instareasy)
-* [DarkCode01](https://github.com/DarkCode01)
-* [Raksha25](https://github.com/Raksha25)
-* [devangmukherjee](https://github.com/devangmukherjee)
-* [amitsat27](https://github.com/amitsat27)
-* [Blastoise](https://github.com/Blastoise)
-* [2tanayk](https://github.com/2tanayk)
-* [AmyWeitzman](https://github.com/AmyWeitzman)
-* [v-sonawane](https://github.com/v-sonawane)
-* [snape-here](https://github.com/snape-here)
-* [Utkarshn10](https://github.com/Utkarshn10)
-* [srushtips](https://github.com/srushtips)
-* [Ritesh055](https://github.com/Ritesh055)
-* [therealansh](https://github.com/therealansh)
-* [Anshul275](https://github.com/Anshul275)
+
+<a href="https://github.com/pratik-choudhari/algocode/graphs/contributors">
+  <p align="center"> 
+  <img src="https://contributors-img.web.app/image?repo=pratik-choudhari/algocode"/>
+  </p>
+</a>
